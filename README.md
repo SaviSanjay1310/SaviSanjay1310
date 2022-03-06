@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Savitha Velumurugan</h1>
 <h3 align="center">An Aspiring FullStack Developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112&dl=1">
+<img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112&dl=1">
 
 - 🌱 I’m currently learning **React,Mongodb,Node.js & Express.**
 
