@@ -22,6 +22,8 @@
 
 ![snake gif](https://github.com/SaviSanjay1310/SaviSanjay1310/blob/output/github-contribution-grid-snake.gif)
 
+<h3>My Stats So Far:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savisanjay1310&show_icons=true&locale=en&layout=compact" alt="savisanjay1310" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savisanjay1310&show_icons=true&locale=en" alt="savisanjay1310" /></p>
