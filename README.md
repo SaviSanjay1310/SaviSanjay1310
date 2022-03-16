@@ -2,6 +2,8 @@
 <h3 align="center">An Aspiring FullStack Developer from India.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112&dl=1">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupanchakravarthy&label=Profile%20views&color=0e75b6&style=flat" alt="rupanchakravarthy" /> </p>
+
 - 🌱 I’m currently learning **WEB DEVELOPMENT.**
 
 - 💬 Ask me about **MERN Stack**
