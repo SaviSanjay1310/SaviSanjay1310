@@ -26,7 +26,7 @@
 
 <h3>My Stats So Far:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savisanjay1310&show_icons=true&locale=en&layout=compact&theme=radical" alt="savisanjay1310" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savisanjay1310&show_icons=true&locale=en&layout=compact&theme=radical" alt="savisanjay1310" /></p><br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savisanjay1310&show_icons=true&locale=en&theme=radical" alt="savisanjay1310" /></p>
 
