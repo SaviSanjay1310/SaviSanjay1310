@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Savitha Velumurugan</h1>
 <h3 align="center">An Aspiring FullStack Developer from India.</h3>
-<img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112&dl=1">
+<img align="right" alt="Coding" width="300" src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savisanjay1310&label=Profile%20views&color=0e75b6&style=flat" alt="savisanjay1310" /> </p>
 
