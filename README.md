@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Savitha Velumurugan</h1>
 <h3 align="center">An Aspiring FullStack Web Developer from India.</h3>
-<img align="right" alt="Coding" width="450" src="https://images.squarespace-cdn.com/content/v1/5d08f42ea1e15f00016f7e14/1605714340505-O0VHXGLNBI8HWVZZEYBR/female-developer-vector.jpg">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5d08f42ea1e15f00016f7e14/1605714340505-O0VHXGLNBI8HWVZZEYBR/female-developer-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savisanjay1310&label=Profile%20views&color=0e75b6&style=flat" alt="savisanjay1310" /> </p>
 
